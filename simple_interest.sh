@@ -18,3 +18,5 @@ read -p "Enter the time in years: " time
 
 # Calling the function with user inputs
 calculate_simple_interest $principal $rate $time
+
+#Test
